@@ -1356,12 +1356,6 @@ Ni(Lac)+                        4.0000     0
 Pb(Lac)+                        4.0000     0
 Sr(Lac)+                        4.0000     0
 Zn(Lac)+                        4.0000     0
-Ba(HCO3)+                       4.0000     0
-Ca(HCO3)+                       4.0000     0
-Mg(HCO3)+                       4.0000     0
-Sr(HCO3)+                       4.0000     0
-Ca(HSiO3)+                      4.0000     0
-Mg(HSiO3)+                      4.0000     0
 Pd(SO4)2-2                      4.0000     0
 Pd(SO4)3-4                      4.0000     0
 Pt(SO4)2-2                      4.0000     0
@@ -20097,98 +20091,6 @@ Zn(Lac)+
 **** logK grid [T, P @ Miscellaneous parameters]=Zn(Lac)+
           1.6342     1.5926     1.3546     1.0757
           0.7826     0.4788     0.1705     0.0400
-+--------------------------------------------------------------------
-Ba(HCO3)+
-    date last revised = 1992-11-0
- keys   = aqueous          active
-     charge  =   1.0
-*
-     4 element(s):
-      1.0000 Ba             1.0000 C              1.0000 H
-      3.0000 O 
-     3 species in aqueous dissociation reaction:      
-    -1.0000  Ba(HCO3)+                      1.0000  Ba+2
-     1.0000  HCO3-                    
-**** logK grid [T, P @ Miscellaneous parameters]=Ba(HCO3)+
-         -0.7475    -1.3304    -1.9904    -2.6679
-         -3.3747    -4.1491    -5.0789    -6.3844
-+--------------------------------------------------------------------
-Ca(HCO3)+
-    date last revised = 1991-01-0
- keys   = aqueous          active
-     charge  =   1.0
-*
-     4 element(s):
-      1.0000 C              1.0000 Ca             1.0000 H
-      3.0000 O 
-     3 species in aqueous dissociation reaction:      
-    -1.0000  Ca(HCO3)+                      1.0000  Ca+2
-     1.0000  HCO3-                    
-**** logK grid [T, P @ Miscellaneous parameters]=Ca(HCO3)+
-         -1.0940    -1.1124    -1.4134    -1.8483
-         -2.3830    -3.0268    -3.8398    -4.9715
-+--------------------------------------------------------------------
-Mg(HCO3)+
-    date last revised = 1991-01-0
- keys   = aqueous          active
-     charge  =   1.0
-*
-     4 element(s):
-      1.0000 C              1.0000 H              1.0000 Mg
-      3.0000 O 
-     3 species in aqueous dissociation reaction:      
-    -1.0000  Mg(HCO3)+                      1.0000  Mg+2
-     1.0000  HCO3-                    
-**** logK grid [T, P @ Miscellaneous parameters]=Mg(HCO3)+
-         -1.0770    -1.1114    -1.4229    -1.8523
-         -2.3688    -2.9844    -3.7577    -4.8084
-+--------------------------------------------------------------------
-Sr(HCO3)+
-    date last revised = 1992-11-0
- keys   = aqueous          active
-     charge  =   1.0
-*
-     4 element(s):
-      1.0000 C              1.0000 H              3.0000 O
-      1.0000 Sr
-     3 species in aqueous dissociation reaction:      
-    -1.0000  Sr(HCO3)+                      1.0000  Sr+2
-     1.0000  HCO3-                    
-**** logK grid [T, P @ Miscellaneous parameters]=Sr(HCO3)+
-         -0.9717    -1.5499    -2.2434    -2.9636
-         -3.7153    -4.5347    -5.5050    -6.8103
-+--------------------------------------------------------------------
-Ca(HSiO3)+
-    date last revised = 10/9/1997
- keys   = aqueous          active
-     charge  =   1.0
-*
-     4 element(s):
-      1.0000 Ca             1.0000 H              3.0000 O
-      1.0000 Si
-     5 species in aqueous dissociation reaction:      
-    -1.0000  Ca(HSiO3)+                     1.0000  Ca+2
-     1.0000  SiO2                          -1.0000  H+
-     1.0000  H2O                      
-**** logK grid [T, P @ Miscellaneous parameters]=Ca(HSiO3)+
-          8.7775     8.2510     7.5963     7.0429
-          6.5884     6.2000     5.8373     5.4770
-+--------------------------------------------------------------------
-Mg(HSiO3)+
-    date last revised = 10/9/1997
- keys   = aqueous          active
-     charge  =   1.0
-*
-     4 element(s):
-      1.0000 H              1.0000 Mg             3.0000 O
-      1.0000 Si
-     5 species in aqueous dissociation reaction:      
-    -1.0000  Mg(HSiO3)+                     1.0000  Mg+2
-     1.0000  SiO2                          -1.0000  H+
-     1.0000  H2O                      
-**** logK grid [T, P @ Miscellaneous parameters]=Mg(HSiO3)+
-          8.4539     8.0584     7.5010     7.0360
-          6.6656     6.3580     6.0717     5.7689
 +--------------------------------------------------------------------
 Pd(SO4)2-2
     date last revised = 4/14/1995
