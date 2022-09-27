@@ -116,6 +116,9 @@ Xe                              3.0000     0
 Am+3                            4.5000     0
 Th+4                            3.0000     0
 Ra+2                            5.0000     0
+Fr+                             4.0000     0
+ReO4-                           4.0000     0
+TcO4-                           4.0000     0
 NO2-                            4.0000     0
 NH4+                            3.0000     0
 HS-                             3.0000     0
@@ -1370,6 +1373,56 @@ Ru(SO4)2-                       4.0000     0
 Ru(SO4)2-2                      4.0000     0
 Ru(SO4)3-3                      4.0000     0
 Ru(SO4)3-4                      4.0000     0
+Ag(HS)2-                        4.0000     0
+AgF                             4.0000     0
+Au(HS)2-                        4.0000     0
+AuCl                            4.0000     0
+AuCl2-                          4.0000     0
+AuCl3-2                         4.0000     0
+FeCl+2                          4.0000     0
+H3AsO4                          4.0000     0
+HgCl+                           4.0000     0
+HgCl2                           4.0000     0
+HgCl3-                          4.0000     0
+HgCl4-2                         4.0000     0
+HgF+                            4.0000     0
+InCl+2                          4.0000     0
+InF+2                           4.0000     0
+PdCl+                           4.0000     0
+PdCl2                           4.0000     0
+PdCl3-                          4.0000     0
+PdCl4-2                         4.0000     0
+PdSO4                           4.0000     0
+PtCl+                           4.0000     0
+PtCl2                           4.0000     0
+PtCl3-                          4.0000     0
+PtCl4-2                         4.0000     0
+RhCl+                           4.0000     0
+RhCl+2                          4.0000     0
+RhCl2                           4.0000     0
+RhCl2+                          4.0000     0
+RhCl3                           4.0000     0
+RhCl3-                          4.0000     0
+RhCl4-                          4.0000     0
+RhCl4-2                         4.0000     0
+RhSO4                           4.0000     0
+RhSO4+                          4.0000     0
+RuCl+                           4.0000     0
+RuCl+2                          4.0000     0
+RuCl2                           4.0000     0
+RuCl2+                          4.0000     0
+RuCl3                           4.0000     0
+RuCl3-                          4.0000     0
+RuCl4-                          4.0000     0
+RuCl4-2                         4.0000     0
+RuCl5-2                         4.0000     0
+RuCl6-3                         4.0000     0
+RuSO4                           4.0000     0
+RuSO4+                          4.0000     0
+TlCl                            4.0000     0
+TlCl+2                          4.0000     0
+TlF                             4.0000     0
+VOOH+                           4.0000     0
 +--------------------------------------------------------------------
 elements
 +--------------------------------------------------------------------
@@ -1454,6 +1507,9 @@ Xe       131.29000
 Am       223.00000
 Th       232.03810
 Ra       226.02500
+Fr       223.00000
+Re       186.20000
+Tc        98.90600
 +--------------------------------------------------------------------
 basis species
 +--------------------------------------------------------------------
@@ -2031,6 +2087,27 @@ Ra+2
      charge  =   2.0
      1 element(s):
       1.0000 Ra
++--------------------------------------------------------------------
+Fr+
+    date last revised =  11/11/1997
+ keys   = basis            active
+     charge  =   1.0
+     1 element(s):
+      1.0000 Fr
++--------------------------------------------------------------------
+ReO4-
+    date last revised =  11/7/1997
+ keys   = basis            active
+     charge  =   -1.0
+     2 element(s):
+      1.0000 Re              4.0000 O
++--------------------------------------------------------------------
+TcO4-
+    date last revised =  11/7/1997
+ keys   = basis            active
+     charge  =   -1.0
+     2 element(s):
+      1.0000 Tc              4.0000 O
 +--------------------------------------------------------------------
 O2(g)
     date last revised =  31-jul-1984                                            
@@ -20247,6 +20324,706 @@ Ru(SO4)3-4
 **** logK grid [T, P @ Miscellaneous parameters]=Ru(SO4)3-4
          -4.7670    -5.5388    -6.6600    -7.8781
          -9.1826   -10.6349   -12.3853   -14.7065
++--------------------------------------------------------------------
+Ag(HS)2-
+    date last revised = 10/9/1997
+ keys   = aqueous          active
+     charge  =   -1.0
+*
+     3 element(s):
+      1.0000 Ag             2.0000 H              2.0000 S 
+     3 species in aqueous dissociation reaction:      
+    -1.0000  Ag(HS)2-                       1.0000  Ag+
+     2.0000  HS-                      
+**** logK grid [T, P @ Miscellaneous parameters]=Ag(HS)2-
+        -19.5042   -16.2856   -14.2230   -12.8475
+        -11.9478   -11.4271   -11.2846   -11.7029
++--------------------------------------------------------------------
+AgF
+    date last revised = 10/9/1997
+ keys   = aqueous          active
+     charge  =   0.0
+*
+     2 element(s):
+      1.0000 Ag             1.0000 F 
+     3 species in aqueous dissociation reaction:      
+    -1.0000  AgF                            1.0000  Ag+
+     1.0000  F-                       
+**** logK grid [T, P @ Miscellaneous parameters]=AgF
+         -0.4205    -0.4279    -0.5548    -0.7491
+         -1.0113    -1.3671    -1.8852    -2.7468
++--------------------------------------------------------------------
+Au(HS)2-
+    date last revised = 10/9/1997
+ keys   = aqueous          active
+     charge  =   -1.0
+*
+     3 element(s):
+      1.0000 Au             2.0000 H              2.0000 S 
+     3 species in aqueous dissociation reaction:      
+    -1.0000  Au(HS)2-                       1.0000  Au+
+     2.0000  HS-                      
+**** logK grid [T, P @ Miscellaneous parameters]=Au(HS)2-
+        -33.9166   -28.6093   -24.9251   -22.2562
+        -20.2991   -18.8985   -18.0199   -17.8483
++--------------------------------------------------------------------
+AuCl
+    date last revised = 10/2/1997
+ keys   = aqueous          active
+     charge  =   0.0
+*
+     2 element(s):
+      1.0000 Au             1.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  AuCl                           1.0000  Au+
+     1.0000  Cl-                      
+**** logK grid [T, P @ Miscellaneous parameters]=AuCl
+         -8.6178    -7.3594    -6.5246    -5.9648
+         -5.6139    -5.4530    -5.5209    -6.0272
++--------------------------------------------------------------------
+AuCl2-
+    date last revised = 10/2/1997
+ keys   = aqueous          active
+     charge  =   -1.0
+*
+     2 element(s):
+      1.0000 Au             2.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  AuCl2-                         1.0000  Au+
+     2.0000  Cl-                      
+**** logK grid [T, P @ Miscellaneous parameters]=AuCl2-
+        -10.4352    -8.8447    -7.8281    -7.1761
+         -6.7976    -6.6649    -6.8234    -7.5018
++--------------------------------------------------------------------
+AuCl3-2
+    date last revised = 10/2/1997
+ keys   = aqueous          active
+     charge  =   -2.0
+*
+     2 element(s):
+      1.0000 Au             3.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  AuCl3-2                        1.0000  Au+
+     3.0000  Cl-                      
+**** logK grid [T, P @ Miscellaneous parameters]=AuCl3-2
+        -10.2815    -8.5179    -7.4162    -6.7248
+         -6.3327    -6.1991    -6.3562    -6.9854
++--------------------------------------------------------------------
+FeCl+2
+    date last revised = 10/2/1997
+ keys   = aqueous          active
+     charge  =   2.0
+*
+     2 element(s):
+      1.0000 Fe             1.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  FeCl+2                         1.0000  Fe+3
+     1.0000  Cl-                      
+**** logK grid [T, P @ Miscellaneous parameters]=FeCl+2
+         -1.4655    -1.5675    -1.8550    -2.2399
+         -2.7096    -3.2837    -4.0256    -5.0552
++--------------------------------------------------------------------
+H3AsO4
+    date last revised = 11/11/199
+ keys   = aqueous          active
+     charge  =   0.0
+*
+     3 element(s):
+      3.0000 H              1.0000 As             4.0000 O 
+     3 species in aqueous dissociation reaction:      
+    -1.0000  H3AsO4                         1.0000  H2AsO4-
+     1.0000  H+                       
+**** logK grid [T, P @ Miscellaneous parameters]=H3AsO4
+         -2.1781    -2.3772    -2.6335    -2.9187
+         -3.2414    -3.6314    -4.1679    -5.1654
++--------------------------------------------------------------------
+HgCl+
+    date last revised = 10/7/1997
+ keys   = aqueous          active
+     charge  =   1.0
+*
+     2 element(s):
+      1.0000 Hg             1.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  HgCl+                          1.0000  Hg+2
+     1.0000  Cl-                      
+**** logK grid [T, P @ Miscellaneous parameters]=HgCl+
+         -8.0385    -7.0123    -6.5313    -6.3629
+         -6.4191    -6.6756    -7.1714    -8.0515
++--------------------------------------------------------------------
+HgCl2
+    date last revised = 10/7/1997
+ keys   = aqueous          active
+     charge  =   0.0
+*
+     2 element(s):
+      1.0000 Hg             2.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  HgCl2                          1.0000  Hg+2
+     2.0000  Cl-                      
+**** logK grid [T, P @ Miscellaneous parameters]=HgCl2
+        -15.5561   -13.3352   -12.2370   -11.7830
+        -11.7874   -12.1942   -13.0782   -14.7846
++--------------------------------------------------------------------
+HgCl3-
+    date last revised = 10/7/1997
+ keys   = aqueous          active
+     charge  =   -1.0
+*
+     2 element(s):
+      1.0000 Hg             3.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  HgCl3-                         1.0000  Hg+2
+     3.0000  Cl-                      
+**** logK grid [T, P @ Miscellaneous parameters]=HgCl3-
+        -15.9988   -13.4380   -12.3295   -12.0182
+        -12.2495   -12.9339   -14.1293   -16.1534
++--------------------------------------------------------------------
+HgCl4-2
+    date last revised = 10/7/1997
+ keys   = aqueous          active
+     charge  =   -2.0
+*
+     2 element(s):
+      1.0000 Hg             4.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  HgCl4-2                        1.0000  Hg+2
+     4.0000  Cl-                      
+**** logK grid [T, P @ Miscellaneous parameters]=HgCl4-2
+        -17.2535   -13.9565   -12.5345   -12.1202
+        -12.3668   -13.1338   -14.4463   -16.5999
++--------------------------------------------------------------------
+HgF+
+    date last revised = 10/9/1997
+ keys   = aqueous          active
+     charge  =   1.0
+*
+     2 element(s):
+      1.0000 Hg             1.0000 F 
+     3 species in aqueous dissociation reaction:      
+    -1.0000  HgF+                           1.0000  Hg+2
+     1.0000  F-                       
+**** logK grid [T, P @ Miscellaneous parameters]=HgF+
+         -1.7005    -1.6716    -1.9222    -2.3072
+         -2.7951    -3.3975    -4.1764    -5.2759
++--------------------------------------------------------------------
+InCl+2
+    date last revised = 10/7/1997
+ keys   = aqueous          active
+     charge  =   2.0
+*
+     2 element(s):
+      1.0000 In             1.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  InCl+2                         1.0000  In+3
+     1.0000  Cl-                      
+**** logK grid [T, P @ Miscellaneous parameters]=InCl+2
+         -3.3906    -3.2174    -3.2846    -3.4901
+         -3.8102    -4.2571    -4.8892    -5.8203
++--------------------------------------------------------------------
+InF+2
+    date last revised = 10/9/1997
+ keys   = aqueous          active
+     charge  =   2.0
+*
+     2 element(s):
+      1.0000 In             1.0000 F 
+     3 species in aqueous dissociation reaction:      
+    -1.0000  InF+2                          1.0000  In+3
+     1.0000  F-                       
+**** logK grid [T, P @ Miscellaneous parameters]=InF+2
+         -4.2178    -4.9958    -5.7633    -6.5064
+         -7.2593    -8.0714    -9.0217   -10.1363
++--------------------------------------------------------------------
+PdCl+
+    date last revised = 8/16/2015
+ keys   = aqueous          active
+     charge  =   1.0
+*
+     2 element(s):
+      1.0000 Pd             1.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  PdCl+                          1.0000  Pd+2
+     1.0000  Cl-                      
+**** logK grid [T, P @ Miscellaneous parameters]=PdCl+
+         -5.9913    -5.1773    -4.8128    -4.7119
+         -4.8077    -5.0872    -5.5923    -6.4207
++--------------------------------------------------------------------
+PdCl2
+    date last revised = 8/16/2015
+ keys   = aqueous          active
+     charge  =   0.0
+*
+     2 element(s):
+      1.0000 Pd             2.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  PdCl2                          1.0000  Pd+2
+     2.0000  Cl-                      
+**** logK grid [T, P @ Miscellaneous parameters]=PdCl2
+        -10.9547    -9.1799    -8.3033    -7.9595
+         -8.0136    -8.4372    -9.3176   -10.9256
++--------------------------------------------------------------------
+PdCl3-
+    date last revised = 8/16/2015
+ keys   = aqueous          active
+     charge  =   -1.0
+*
+     2 element(s):
+      1.0000 Pd             3.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  PdCl3-                         1.0000  Pd+2
+     3.0000  Cl-                      
+**** logK grid [T, P @ Miscellaneous parameters]=PdCl3-
+        -13.6402   -10.9272    -9.5051    -8.8296
+         -8.6810    -8.9821    -9.7883   -11.3564
++--------------------------------------------------------------------
+PdCl4-2
+    date last revised = 8/16/2015
+ keys   = aqueous          active
+     charge  =   -2.0
+*
+     2 element(s):
+      1.0000 Pd             4.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  PdCl4-2                        1.0000  Pd+2
+     4.0000  Cl-                      
+**** logK grid [T, P @ Miscellaneous parameters]=PdCl4-2
+        -16.1098   -12.0714    -9.7803    -8.4990
+         -7.9088    -7.8736    -8.4120    -9.8029
++--------------------------------------------------------------------
+PdSO4
+    date last revised = 4/14/1992
+ keys   = aqueous          active
+     charge  =   0.0
+*
+     3 element(s):
+      4.0000 O              1.0000 Pd             1.0000 S 
+     3 species in aqueous dissociation reaction:      
+    -1.0000  PdSO4                          1.0000  Pd+2
+     1.0000  SO4-2                    
+**** logK grid [T, P @ Miscellaneous parameters]=PdSO4
+         -2.3536    -2.5076    -2.8210    -3.2347
+         -3.7747    -4.5078    -5.5812    -7.2814
++--------------------------------------------------------------------
+PtCl+
+    date last revised = 4/14/1995
+ keys   = aqueous          active
+     charge  =   1.0
+*
+     2 element(s):
+      1.0000 Pt             1.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  PtCl+                          1.0000  Cl-
+     1.0000  Pt+2                     
+**** logK grid [T, P @ Miscellaneous parameters]=PtCl+
+         -9.4660    -8.0945    -7.3156    -6.8944
+         -6.7349    -6.8055    -7.1361    -7.8127
++--------------------------------------------------------------------
+PtCl2
+    date last revised = 4/14/1995
+ keys   = aqueous          active
+     charge  =   0.0
+*
+     2 element(s):
+      1.0000 Pt             2.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  PtCl2                          2.0000  Cl-
+     1.0000  Pt+2                     
+**** logK grid [T, P @ Miscellaneous parameters]=PtCl2
+        -17.0709   -14.2967   -12.6715   -11.7463
+        -11.3353   -11.3783   -11.9408   -13.2686
++--------------------------------------------------------------------
+PtCl3-
+    date last revised = 4/14/1995
+ keys   = aqueous          active
+     charge  =   -1.0
+*
+     2 element(s):
+      1.0000 Pt             3.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  PtCl3-                         3.0000  Cl-
+     1.0000  Pt+2                     
+**** logK grid [T, P @ Miscellaneous parameters]=PtCl3-
+        -20.7106   -16.8006   -14.4695   -13.0791
+        -12.3509   -12.1699   -12.5661   -13.7815
++--------------------------------------------------------------------
+PtCl4-2
+    date last revised = 4/14/1995
+ keys   = aqueous          active
+     charge  =   -2.0
+*
+     2 element(s):
+      1.0000 Pt             4.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  PtCl4-2                        4.0000  Cl-
+     1.0000  Pt+2                     
+**** logK grid [T, P @ Miscellaneous parameters]=PtCl4-2
+        -22.9932   -17.7031   -14.4431   -12.3883
+        -11.1625   -10.5920   -10.6704   -11.6710
++--------------------------------------------------------------------
+RhCl+
+    date last revised = 4/14/1995
+ keys   = aqueous          active
+     charge  =   1.0
+*
+     2 element(s):
+      1.0000 Rh             1.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  RhCl+                          1.0000  Cl-
+     1.0000  Rh+2                     
+**** logK grid [T, P @ Miscellaneous parameters]=RhCl+
+          0.2257     0.1380    -0.1388    -0.5131
+         -0.9700    -1.5279    -2.2514    -3.2955
++--------------------------------------------------------------------
+RhCl+2
+    date last revised = 7/14/1994
+ keys   = aqueous          active
+     charge  =   2.0
+*
+     2 element(s):
+      1.0000 Rh             1.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  RhCl+2                         1.0000  Cl-
+     1.0000  Rh+3                     
+**** logK grid [T, P @ Miscellaneous parameters]=RhCl+2
+         -2.0835    -2.0503    -2.3145    -2.7278
+         -3.2530    -3.8973    -4.7171    -5.8312
++--------------------------------------------------------------------
+RhCl2
+    date last revised = 7/14/1994
+ keys   = aqueous          active
+     charge  =   0.0
+*
+     2 element(s):
+      1.0000 Rh             2.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  RhCl2                          2.0000  Cl-
+     1.0000  Rh+2                     
+**** logK grid [T, P @ Miscellaneous parameters]=RhCl2
+          0.6565     0.7849     0.5053    -0.0026
+         -0.7043    -1.6319    -2.9125    -4.8621
++--------------------------------------------------------------------
+RhCl2+
+    date last revised = 7/14/1994
+ keys   = aqueous          active
+     charge  =   1.0
+*
+     2 element(s):
+      1.0000 Rh             2.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  RhCl2+                         2.0000  Cl-
+     1.0000  Rh+3                     
+**** logK grid [T, P @ Miscellaneous parameters]=RhCl2+
+         -3.5736    -3.1893    -3.3600    -3.8335
+         -4.5443    -5.5084    -6.8437    -8.8602
++--------------------------------------------------------------------
+RhCl3
+    date last revised = 7/14/1994
+ keys   = aqueous          active
+     charge  =   0.0
+*
+     2 element(s):
+      1.0000 Rh             3.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  RhCl3                          3.0000  Cl-
+     1.0000  Rh+3                     
+**** logK grid [T, P @ Miscellaneous parameters]=RhCl3
+         -3.9324    -2.9386    -2.7053    -2.9341
+         -3.5472    -4.5734    -6.1820    -8.7161
++--------------------------------------------------------------------
+RhCl3-
+    date last revised = 7/14/1994
+ keys   = aqueous          active
+     charge  =   -1.0
+*
+     2 element(s):
+      1.0000 Rh             3.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  RhCl3-                         3.0000  Cl-
+     1.0000  Rh+2                     
+**** logK grid [T, P @ Miscellaneous parameters]=RhCl3-
+          1.6964     2.3299     2.3236     1.9704
+          1.3580     0.4853    -0.7552    -2.7156
++--------------------------------------------------------------------
+RhCl4-
+    date last revised = 7/14/1994
+ keys   = aqueous          active
+     charge  =   -1.0
+*
+     2 element(s):
+      1.0000 Rh             4.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  RhCl4-                         4.0000  Cl-
+     1.0000  Rh+3                     
+**** logK grid [T, P @ Miscellaneous parameters]=RhCl4-
+         -4.5000    -2.3292    -1.1340    -0.5515
+         -0.4529    -0.8343    -1.8631    -4.1885
++--------------------------------------------------------------------
+RhCl4-2
+    date last revised = 4/14/1995
+ keys   = aqueous          active
+     charge  =   -2.0
+*
+     2 element(s):
+      1.0000 Rh             4.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  RhCl4-2                        4.0000  Cl-
+     1.0000  Rh+2                     
+**** logK grid [T, P @ Miscellaneous parameters]=RhCl4-2
+          2.3213     4.0287     4.7641     4.9562
+          4.7659     4.2368     3.2880     1.5099
++--------------------------------------------------------------------
+RhSO4
+    date last revised = 3/30/1995
+ keys   = aqueous          active
+     charge  =   0.0
+*
+     3 element(s):
+      4.0000 O              1.0000 Rh             1.0000 S 
+     3 species in aqueous dissociation reaction:      
+    -1.0000  RhSO4                          1.0000  Rh+2
+     1.0000  SO4-2                    
+**** logK grid [T, P @ Miscellaneous parameters]=RhSO4
+         -2.3656    -2.4975    -2.7942    -3.1939
+         -3.7205    -4.4398    -5.4995    -7.2045
++--------------------------------------------------------------------
+RhSO4+
+    date last revised = 3/30/1995
+ keys   = aqueous          active
+     charge  =   1.0
+*
+     3 element(s):
+      4.0000 O              1.0000 Rh             1.0000 S 
+     3 species in aqueous dissociation reaction:      
+    -1.0000  RhSO4+                         1.0000  Rh+3
+     1.0000  SO4-2                    
+**** logK grid [T, P @ Miscellaneous parameters]=RhSO4+
+         -1.0276    -1.9379    -2.8048    -3.6410
+         -4.5134    -5.5142    -6.8068    -8.6882
++--------------------------------------------------------------------
+RuCl+
+    date last revised = 7/14/1994
+ keys   = aqueous          active
+     charge  =   1.0
+*
+     2 element(s):
+      1.0000 Ru             1.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  RuCl+                          1.0000  Cl-
+     1.0000  Ru+2                     
+**** logK grid [T, P @ Miscellaneous parameters]=RuCl+
+          0.5448     0.3944     0.0677    -0.3470
+         -0.8376    -1.4241    -2.1723    -3.2382
++--------------------------------------------------------------------
+RuCl+2
+    date last revised = 7/25/1994
+ keys   = aqueous          active
+     charge  =   2.0
+*
+     2 element(s):
+      1.0000 Ru             1.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  RuCl+2                         1.0000  Cl-
+     1.0000  Ru+3                     
+**** logK grid [T, P @ Miscellaneous parameters]=RuCl+2
+         -2.2647    -2.2084    -2.4925    -2.9434
+         -3.5148    -4.2092    -5.0809    -6.2468
++--------------------------------------------------------------------
+RuCl2
+    date last revised = 7/14/1994
+ keys   = aqueous          active
+     charge  =   0.0
+*
+     2 element(s):
+      1.0000 Ru             2.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  RuCl2                          2.0000  Cl-
+     1.0000  Ru+2                     
+**** logK grid [T, P @ Miscellaneous parameters]=RuCl2
+          1.2419     1.2465     0.8656     0.2743
+         -0.4975    -1.4848    -2.8170    -4.8160
++--------------------------------------------------------------------
+RuCl2+
+    date last revised = 7/14/1994
+ keys   = aqueous          active
+     charge  =   1.0
+*
+     2 element(s):
+      1.0000 Ru             2.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  RuCl2+                         2.0000  Cl-
+     1.0000  Ru+3                     
+**** logK grid [T, P @ Miscellaneous parameters]=RuCl2+
+         -4.1106    -3.6519    -3.8674    -4.4361
+         -5.2667    -6.3626    -7.8345    -9.9855
++--------------------------------------------------------------------
+RuCl3
+    date last revised = 4/13/1995
+ keys   = aqueous          active
+     charge  =   0.0
+*
+     2 element(s):
+      1.0000 Ru             3.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  RuCl3                          3.0000  Cl-
+     1.0000  Ru+3                     
+**** logK grid [T, P @ Miscellaneous parameters]=RuCl3
+         -5.0537    -3.9009    -3.7389    -4.1375
+         -4.9686    -6.2367    -8.0980   -10.8918
++--------------------------------------------------------------------
+RuCl3-
+    date last revised = 4/13/1995
+ keys   = aqueous          active
+     charge  =   -1.0
+*
+     2 element(s):
+      1.0000 Ru             3.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  RuCl3-                         3.0000  Cl-
+     1.0000  Ru+2                     
+**** logK grid [T, P @ Miscellaneous parameters]=RuCl3-
+          2.4894     2.9369     2.7743     2.2889
+          1.5625     0.5896    -0.7402    -2.7749
++--------------------------------------------------------------------
+RuCl4-
+    date last revised = 4/13/1995
+ keys   = aqueous          active
+     charge  =   -1.0
+*
+     2 element(s):
+      1.0000 Ru             4.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  RuCl4-                         4.0000  Cl-
+     1.0000  Ru+3                     
+**** logK grid [T, P @ Miscellaneous parameters]=RuCl4-
+         -5.5262    -3.2257    -2.2381    -2.0003
+         -2.3097    -3.1274    -4.6012    -7.3608
++--------------------------------------------------------------------
+RuCl4-2
+    date last revised = 7/14/1994
+ keys   = aqueous          active
+     charge  =   -2.0
+*
+     2 element(s):
+      1.0000 Ru             4.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  RuCl4-2                        4.0000  Cl-
+     1.0000  Ru+2                     
+**** logK grid [T, P @ Miscellaneous parameters]=RuCl4-2
+          3.3013     4.7436     5.2525     5.2509
+          4.8919     4.2133     3.1307     1.2444
++--------------------------------------------------------------------
+RuCl5-2
+    date last revised = 4/10/1992
+ keys   = aqueous          active
+     charge  =   -2.0
+*
+     2 element(s):
+      1.0000 Ru             5.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  RuCl5-2                        5.0000  Cl-
+     1.0000  Ru+3                     
+**** logK grid [T, P @ Miscellaneous parameters]=RuCl5-2
+         -6.6856    -1.7246     1.1283     2.7542
+          3.5276     3.5879     2.8318     0.3667
++--------------------------------------------------------------------
+RuCl6-3
+    date last revised = 4/10/1992
+ keys   = aqueous          active
+     charge  =   -3.0
+*
+     2 element(s):
+      1.0000 Ru             6.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  RuCl6-3                        6.0000  Cl-
+     1.0000  Ru+3                     
+**** logK grid [T, P @ Miscellaneous parameters]=RuCl6-3
+         -7.8588     0.0499     5.2067     8.6977
+         11.0360    12.4477    12.8617    11.0452
++--------------------------------------------------------------------
+RuSO4
+    date last revised = 3/30/1995
+ keys   = aqueous          active
+     charge  =   0.0
+*
+     3 element(s):
+      4.0000 O              1.0000 Ru             1.0000 S 
+     3 species in aqueous dissociation reaction:      
+    -1.0000  RuSO4                          1.0000  Ru+2
+     1.0000  SO4-2                    
+**** logK grid [T, P @ Miscellaneous parameters]=RuSO4
+         -2.2836    -2.4315    -2.7399    -3.1482
+         -3.6811    -4.4047    -5.4675    -7.1790
++--------------------------------------------------------------------
+RuSO4+
+    date last revised = 3/30/1995
+ keys   = aqueous          active
+     charge  =   1.0
+*
+     3 element(s):
+      4.0000 O              1.0000 Ru             1.0000 S 
+     3 species in aqueous dissociation reaction:      
+    -1.0000  RuSO4+                         1.0000  Ru+3
+     1.0000  SO4-2                    
+**** logK grid [T, P @ Miscellaneous parameters]=RuSO4+
+         -1.5738    -2.4007    -3.1834    -3.9407
+         -4.7378    -5.6583    -6.8392    -8.3920
++--------------------------------------------------------------------
+TlCl
+    date last revised = 10/2/1997
+ keys   = aqueous          active
+     charge  =   0.0
+*
+     2 element(s):
+      1.0000 Tl             1.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  TlCl                           1.0000  Tl+
+     1.0000  Cl-                      
+**** logK grid [T, P @ Miscellaneous parameters]=TlCl
+         -0.4668    -0.5659    -0.6979    -0.8586
+         -1.0615    -1.3353    -1.7483    -2.5288
++--------------------------------------------------------------------
+TlCl+2
+    date last revised = 10/2/1997
+ keys   = aqueous          active
+     charge  =   2.0
+*
+     2 element(s):
+      1.0000 Tl             1.0000 Cl
+     3 species in aqueous dissociation reaction:      
+    -1.0000  TlCl+2                         1.0000  Tl+3
+     1.0000  Cl-                      
+**** logK grid [T, P @ Miscellaneous parameters]=TlCl+2
+         -8.1796    -7.3813    -6.8916    -6.6117
+         -6.5059    -6.5761    -6.8727    -7.4983
++--------------------------------------------------------------------
+TlF
+    date last revised = 10/9/1997
+ keys   = aqueous          active
+     charge  =   0.0
+*
+     2 element(s):
+      1.0000 Tl             1.0000 F 
+     3 species in aqueous dissociation reaction:      
+    -1.0000  TlF                            1.0000  Tl+
+     1.0000  F-                       
+**** logK grid [T, P @ Miscellaneous parameters]=TlF
+          0.0019    -0.2083    -0.4241    -0.6478
+         -0.9029    -1.2258    -1.6897    -2.4781
++--------------------------------------------------------------------
+VOOH+
+    date last revised = 11/13/199
+ keys   = aqueous          active
+     charge  =   1.0
+*
+     3 element(s):
+      1.0000 V              2.0000 O              1.0000 H 
+     4 species in aqueous dissociation reaction:      
+    -1.0000  VOOH+                         -1.0000  H+
+     1.0000  VO+2                           1.0000  H2O                      
+**** logK grid [T, P @ Miscellaneous parameters]=VOOH+
+          6.1202     5.2537     4.7063     4.3432
+          4.0882     3.8920     3.7185     3.5982
 +--------------------------------------------------------------------
 solids
 +--------------------------------------------------------------------
