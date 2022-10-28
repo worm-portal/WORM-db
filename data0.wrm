@@ -1635,6 +1635,8 @@ deoxycytidine                   4.0000     0
 deoxyguanosine                  4.0000     0
 deoxythymidine                  4.0000     0
 deoxyuridine                    4.0000     0
+glycinium                       4.0000     0
+glycinate                       4.0000     0
 +--------------------------------------------------------------------
 elements
 +--------------------------------------------------------------------
@@ -24441,6 +24443,36 @@ deoxyuridine
 **** logK grid [T, P @ Miscellaneous parameters]=deoxyuridine
          -0.4496    -0.3131    -0.1855     0.0052
           0.2446     0.5147     0.8013     1.0944
++--------------------------------------------------------------------
+glycinium
+    date last revised = 2/6/2019
+ keys   = aqueous          active
+     charge  =   1.0
+*
+     4 element(s):
+      2.0000 C              6.0000 H              1.0000 N
+      2.0000 O 
+     3 species in aqueous dissociation reaction:      
+    -1.0000  glycinium                      1.0000  glycine
+     1.0000  H+                       
+**** logK grid [T, P @ Miscellaneous parameters]=glycinium
+         -2.4400    -2.3112    -2.3368    -2.4348
+         -2.5805    -2.7709    -3.0277    -3.4652
++--------------------------------------------------------------------
+glycinate
+    date last revised = 2/6/2019
+ keys   = aqueous          active
+     charge  =   -1.0
+*
+     4 element(s):
+      2.0000 C              4.0000 H              1.0000 N
+      2.0000 O 
+     3 species in aqueous dissociation reaction:      
+    -1.0000  glycinate                      1.0000  glycine
+    -1.0000  H+                       
+**** logK grid [T, P @ Miscellaneous parameters]=glycinate
+         10.5030     9.1933     8.2844     7.6361
+          7.1702     6.8447     6.6480     6.6340
 +--------------------------------------------------------------------
 solids
 +--------------------------------------------------------------------
