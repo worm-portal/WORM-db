@@ -1,2 +1,2 @@
-name,formula,state,ref1,ref2,date,logK_25,DeltaS,T_vals,azero,dissrxn,formula_ox,ligand_basis,ligand_charge,ligand_azero,ligand_element,ligand_formula,ligand_name,ligand_mass,ligand_entropy,ligand_n,category_1
-CuEDTA-2,CuEdta-2,aq,,,,-20.06,-58.2,0 25 60 100 150,4,-1.0000 CuEDTA-2 1.0000 Cu+2 1.0000 EDTA-4,Cu+2 Edta-4,EDTA-4,-4,4,Edta,Edta-4,ethylenediaminetetraacetic-acid,288.21388,505.5107,32,metallorganic_aq
+name,formula,state,ref1,ref2,date,logK_25,logK_25_IS,DeltaS,T_vals,azero,dissrxn,formula_ox,metal_name,ligand_basis,ligand_charge,ligand_azero,ligand_element,ligand_formula,ligand_name,ligand_mass,ligand_entropy,ligand_n,category_1
+CuEDTA-2,CuEdta-2,aq,,,,-20.06,0,-58.2,0 25 60 100 150,4,-1.0000 CuEDTA-2 1.0000 Cu+2 1.0000 EDTA-4,Cu+2 Edta-4,,EDTA-4,-4,4,Edta,Edta-4,ethylenediaminetetraacetic-acid,288.21388,505.5107,32,metallorganic_aq
