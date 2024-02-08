@@ -39,28 +39,28 @@ OH-                             3.0000     0
 O2(g)                           3.0000     0
 O2                              3.0000    -1
 plhold                          3.0000     0
-Li+                             4.0000     0
+Li+                             6.0000     0
 Na+                             4.0000     0
 K+                              3.0000     0
-Rb+                             4.0000     0
-Cs+                             4.0000     0
+Rb+                             2.5000     0
+Cs+                             2.5000     0
 Mg+2                            8.0000     0
 Ca+2                            6.0000     0
 Sr+2                            5.0000     0
 Ba+2                            5.0000     0
 HCO3-                           4.0000     0
-Pb+2                            5.0000     0
+Pb+2                            4.5000     0
 NO3-                            3.0000     0
 HPO4-2                          4.0000     0
 SO4-2                           4.0000     0
-F-                              4.0000     0
-Br-                             4.0000     0
+F-                              3.5000     0
+Br-                             3.0000     0
 I-                              3.0000     0
-Ni+2                            4.5000     0
-Cd+2                            4.5000     0
+Ni+2                            6.0000     0
+Cd+2                            5.0000     0
 La+3                            9.0000     0
-Nd+3                            5.0000     0
-Sm+3                            5.0000     0
+Nd+3                            9.0000     0
+Sm+3                            9.0000     0
 Gd+3                            5.0000     0
 Dy+3                            5.0000     0
 Ho+3                            5.0000     0
@@ -68,7 +68,7 @@ Er+3                            5.0000     0
 Tm+3                            5.0000     0
 Yb+3                            5.0000     0
 Lu+3                            5.0000     0
-Hg+2                            4.5000     0
+Hg+2                            5.0000     0
 Cu+2                            6.0000     0
 He                              3.0000     0
 B(OH)3                          3.0000     0
@@ -80,22 +80,22 @@ CrO4-2                          4.0000     0
 MoO4-2                          4.0000     0
 WO4-2                           4.0000     0
 Ga+3                            5.0000     0
-Pr+3                            5.0000     0
+Pr+3                            9.0000     0
 Tb+3                            5.0000     0
 Mn+2                            6.0000     0
-Co+2                            4.5000     0
+Co+2                            6.0000     0
 Be+2                            8.0000     0
-In+3                            5.0000     0
-Tl+                             4.0000     0
+In+3                            9.0000     0
+Tl+                             2.5000     0
 Sn+2                            6.0000     0
 SbO2-                           5.0000     0
 Bi+3                            9.0000     0
 SeO3-2                          4.0000     0
-Sc+3                            5.0000     0
+Sc+3                            9.0000     0
 VO+2                            4.5000     0
 Fe+2                            6.0000     0
-Y+3                             5.0000     0
-Zr+4                            5.0000     0
+Y+3                             9.0000     0
+Zr+4                           11.0000     0
 NbO3-                           5.0000     0
 Ce+3                            9.0000     0
 Pm+3                            5.0000     0
@@ -107,25 +107,25 @@ Rh+2                            4.0000     0
 Al+3                            9.0000     0
 H2AsO4-                         4.0000     0
 Au+                             4.0000     0
-Ag+                             3.0000     0
+Ag+                             2.5000     0
 Zn+2                            6.0000     0
 Pd+2                            4.5000     0
 Pt+2                            4.0000     0
 Ar                              3.0000     0
 Xe                              3.0000     0
 Am+3                            4.5000     0
-Th+4                            3.0000     0
+Th+4                           11.0000     0
 Ra+2                            5.0000     0
 Fr+                             4.0000     0
 ReO4-                           4.0000     0
 TcO4-                           4.0000     0
 EDTA-4                          4.0000     0
 NO2-                            4.0000     0
-NH4+                            3.0000     0
+NH4+                            2.5000     0
 HS-                             3.0000     0
 S2O3-2                          4.0000     0
-ClO3-                           4.0000     0
-BrO3-                           4.0000     0
+ClO3-                           3.5000     0
+BrO3-                           3.5000     0
 IO3-                            4.0000     0
 Eu+3                            4.5000     0
 SiF6-2                          4.0000     0
@@ -135,9 +135,9 @@ I3-                             4.0000     0
 Ag+2                            4.5000     0
 H2                              3.0000    -1
 N2                              3.0000     0
-ClO4-                           3.0000     0
+ClO4-                           3.5000     0
 MnO4-                           4.0000     0
-Cr+3                            4.0000     0
+Cr+3                            9.0000     0
 UO2+2                           4.0000     0
 Tl+3                            5.0000     0
 CN-                             4.0000     0
@@ -182,7 +182,7 @@ Ho+2                            4.0000     0
 Er+2                            3.0000     0
 Tm+2                            5.0000     0
 Yb+2                            4.5000     0
-Ce+4                            3.0000     0
+Ce+4                           11.0000     0
 Pr+4                            5.0000     0
 Nd+4                            5.0000     0
 Pm+4                            5.0000     0
@@ -220,7 +220,7 @@ S3O6-2                          4.0000     0
 S4O6-2                          4.0000     0
 S5O6-2                          4.0000     0
 HS2O3-                          4.0000     0
-CO3-2                           5.0000     0
+CO3-2                           4.5000     0
 H2PO4-                          4.0000     0
 HSO3-                           4.0000     0
 HSO4-                           4.0000     0
@@ -484,7 +484,7 @@ UOH+2                           4.0000     0
 UO+                             4.0000     0
 HUO2                            4.0000     0
 UO2-                            4.0000     0
-U(OH)+3                         4.0000     0
+UOH+3                           4.0000     0
 UO+2                            4.0000     0
 HUO2+                           4.0000     0
 UO2                             4.0000     0
@@ -6752,17 +6752,17 @@ UO2-
          35.8191    28.3672    23.4091    19.9373
          17.4217    15.5540    14.1652    13.4960
 +--------------------------------------------------------------------
-U(OH)+3
+UOH+3
     date last revised = 5/18/1994
  keys   = aqueous          active
      charge  =   3.0
 *
      3 element(s):
-      1.0000 H              1.0000 O              1.0000 U 
+      1.0000 U              1.0000 O              1.0000 H 
      4 species in aqueous dissociation reaction:      
-    -1.0000  U(OH)+3                       -1.0000  H+
+    -1.0000  UOH+3                         -1.0000  H+
      1.0000  H2O                            1.0000  U+4                      
-**** logK grid [T, P @ Miscellaneous parameters]=U(OH)+3
+**** logK grid [T, P @ Miscellaneous parameters]=UOH+3
           1.2906    -0.0929    -1.0974    -1.8643
          -2.4848    -3.0170    -3.4916    -3.7049
 +--------------------------------------------------------------------
@@ -8520,8 +8520,8 @@ TlOH
     -1.0000  TlOH                          -1.0000  H+
      1.0000  Tl+                            1.0000  H2O                      
 **** logK grid [T, P @ Miscellaneous parameters]=TlOH
-         -1.1431    -0.4911     0.1609     0.7763
-          1.3491     1.8786     2.3630     2.7905
+         14.6256    12.0641    10.3631     9.1816
+          8.3374     7.7207     7.2588     6.8919
 +--------------------------------------------------------------------
 TlOH+2
     date last revised = 11/13/199
@@ -11596,7 +11596,7 @@ acanthite               Ag2S
      1.0000  HS-                            2.0000  Ag+                      
 **** logK grid [T, P @ Miscellaneous parameters]=acanthite
         -39.6994   -32.9732   -28.1430   -24.5274
-        -21.7886   -19.7366   -18.2709   -17.5205
+        -21.7643   -19.6550   -18.1250   -17.3018
 +--------------------------------------------------------------------
 alabandite              MnS
     date last revised = 5/5/1978
@@ -11667,7 +11667,7 @@ bornite                 Cu5FeS4
      4.0000  Cu+                            4.0000  HS-                      
 **** logK grid [T, P @ Miscellaneous parameters]=bornite
        -111.0425   -95.3166   -84.2206   -76.1102
-        -70.1675   -66.0564   -63.7287   -63.5502
+        -70.1675   -65.9961   -63.5653   -63.2836
 +--------------------------------------------------------------------
 bunsenite               NiO
     date last revised = 5/5/1978
@@ -11681,7 +11681,7 @@ bunsenite               NiO
      1.0000  H2O                            1.0000  Ni+2                     
 **** logK grid [T, P @ Miscellaneous parameters]=bunsenite
          14.0694    11.1136     8.9384     7.2623
-          5.9063     4.7519     3.7162     2.8693
+          5.9063     4.7519     3.7139     2.8577
 +--------------------------------------------------------------------
 celestite               SrSO4
     date last revised = 1/15/2019
@@ -11722,8 +11722,8 @@ chalcocite              Cu2S
     -1.0000  chalcocite                    -1.0000  H+
      1.0000  HS-                            2.0000  Cu+                      
 **** logK grid [T, P @ Miscellaneous parameters]=chalcocite
-        -38.0632   -31.9399   -27.5093   -24.2452
-        -21.7648   -19.8925   -18.5743   -17.9307
+        -38.0632   -31.9399   -27.5093   -24.1798
+        -21.6363   -19.7089   -18.3444   -17.6631
 +--------------------------------------------------------------------
 chalcopyrite            CuFeS2
     date last revised = 5/5/1978
@@ -11987,8 +11987,8 @@ nesquehonite            MgCO3*3H2O
      1.0000  HCO3-                          1.0000  Mg+2
      3.0000  H2O                      
 **** logK grid [T, P @ Miscellaneous parameters]=nesquehonite
-          6.4163     4.8475     4.7099     4.5592
-          4.3500     4.0310     3.5189     2.7126
+          6.4163     5.1056     7.6590    11.2452
+         14.6012    17.1393    18.5534    18.6702
 +--------------------------------------------------------------------
 nickel                  Ni
     date last revised = 5/5/1978
@@ -12031,8 +12031,8 @@ pyrrhotite              FeS
     -1.0000  pyrrhotite                    -1.0000  H+
      1.0000  Fe+2                           1.0000  HS-                      
 **** logK grid [T, P @ Miscellaneous parameters]=pyrrhotite
-         -3.6351    -3.8550    -4.1963    -4.6153
-         -5.1368    -5.7654    -6.5804    -7.6992
+         -3.6351    -3.8550    -4.1963    -4.6065
+         -5.0953    -5.6980    -6.4945    -7.6012
 +--------------------------------------------------------------------
 rhodochrosite           MnCO3
     date last revised = 5/5/1978
@@ -12218,7 +12218,7 @@ tin                     Sn
      1.0000  Sn+2                     
 **** logK grid [T, P @ Miscellaneous parameters]=tin
          51.0812    42.3710    35.9738    31.0755
-         27.1879    23.9761    21.2165    18.8609
+         27.1879    24.0012    21.3021    18.9962
 +--------------------------------------------------------------------
 uraninite               UO2
     date last revised = 9/8/1994
@@ -12306,7 +12306,7 @@ albite                  Na(AlSi3)O8
      2.0000  H2O                            3.0000  SiO2                     
 **** logK grid [T, P @ Miscellaneous parameters]=albite
           2.4646     1.3426    -0.1811    -1.4704
-         -2.5398    -3.4823    -4.4075    -5.1816
+         -2.5398    -3.4818    -4.4033    -5.1689
 +--------------------------------------------------------------------
 albite,high             NaAlSi3O8
     date last revised = 5/5/1978
@@ -12588,8 +12588,8 @@ ferrosilite             FeSiO3
      1.0000  Fe+2                           1.0000  H2O
      1.0000  SiO2                     
 **** logK grid [T, P @ Miscellaneous parameters]=ferrosilite
-          8.2649     6.6180     5.1788     4.0346
-          3.1054     2.3129     1.5826     0.9372
+          8.2649     6.6180     5.1788     4.0350
+          3.1068     2.3140     1.5827     0.9362
 +--------------------------------------------------------------------
 forsterite              Mg2SiO4
     date last revised = 5/5/1978
@@ -13271,7 +13271,7 @@ cristobalite            SiO2
     -1.0000  cristobalite                   1.0000  SiO2                     
 **** logK grid [T, P @ Miscellaneous parameters]=cristobalite
          -4.0213    -3.0998    -2.6605    -2.3644
-         -2.1326    -1.9402    -1.7900    -1.7100
+         -2.1326    -1.9402    -1.7832    -1.6938
 +--------------------------------------------------------------------
 daphnite,14a            Fe5Al(AlSi3)O10(OH)8
     date last revised = 5/5/1978
@@ -13494,8 +13494,8 @@ sulfur                  S
      2.0000  H+                            -1.5000  O2(g)
     -1.0000  H2O                      
 **** logK grid [T, P @ Miscellaneous parameters]=sulfur
-         98.7736    80.3544    66.4629    55.5306
-         46.6064    39.0578    32.3705    25.8808
+         98.7736    80.3544    66.4635    55.5529
+         46.6595    39.1407    32.4815    26.0178
 +--------------------------------------------------------------------
 Fe-brucite              Fe(OH)2
     date last revised = 7/15/2022
@@ -13559,22 +13559,6 @@ hisingerite             Fe2Si2O5(OH)4
          20.9132    17.6983    14.8590    12.5901
          10.7343     9.1294     7.6184     6.1893
 +--------------------------------------------------------------------
-aegerine                NaFe(SiO3)2
-    date last revised = 5/5/1978
- keys   = solid            nan              active
-     charge  =   0.0
-     V0PrTr =     64.37 cm**3/mol
-     4 element(s):
-      1.0000 Fe             1.0000 Na             6.0000 O
-      2.0000 Si
-     6 species in aqueous dissociation reaction:      
-    -1.0000  aegerine                       1.0000  Fe+3
-     1.0000  Na+                            2.0000  SiO2
-    -4.0000  H+                             2.0000  H2O                      
-**** logK grid [T, P @ Miscellaneous parameters]=aegerine
-            nan       nan       nan       nan
-            nan       nan       nan       nan
-+--------------------------------------------------------------------
 almandine               Fe3Al2Si3O12
     date last revised = 7/6/2020
  keys   = solid            nan              active
@@ -13605,71 +13589,6 @@ bromellite              BeO
           7.2497     5.4991     4.2486     3.3062
           2.5500     1.8984     1.2909     0.8191
 +--------------------------------------------------------------------
-celadonite              K(MgAl)Si4O10(OH)2
-    date last revised = 5/5/1978
- keys   = solid            nan              active
-     charge  =   0.0
-     V0PrTr =     157.1 cm**3/mol
-     6 element(s):
-      1.0000 Al             2.0000 H              1.0000 K
-      1.0000 Mg            12.0000 O              4.0000 Si
-     7 species in aqueous dissociation reaction:      
-    -1.0000  celadonite                     1.0000  Al+3
-     1.0000  K+                             1.0000  Mg+2
-     4.0000  SiO2                          -6.0000  H+
-     4.0000  H2O                      
-**** logK grid [T, P @ Miscellaneous parameters]=celadonite
-            nan       nan       nan       nan
-            nan       nan       nan       nan
-+--------------------------------------------------------------------
-chabazite               Ca(Al2Si4)O12*6H2O
-    date last revised = 5/5/1978
- keys   = solid            nan              active
-     charge  =   0.0
-     V0PrTr =    247.76 cm**3/mol
-     5 element(s):
-      2.0000 Al             1.0000 Ca            12.0000 H
-     18.0000 O              4.0000 Si
-     6 species in aqueous dissociation reaction:      
-    -1.0000  chabazite                      2.0000  Al+3
-     1.0000  Ca+2                           4.0000  SiO2
-    -8.0000  H+                            10.0000  H2O                      
-**** logK grid [T, P @ Miscellaneous parameters]=chabazite
-            nan       nan       nan       nan
-            nan       nan       nan       nan
-+--------------------------------------------------------------------
-chloritoid              FeAl2SiO5(OH)2
-    date last revised = 5/5/1978
- keys   = solid            nan              active
-     charge  =   0.0
-     V0PrTr =      69.8 cm**3/mol
-     5 element(s):
-      2.0000 Al             1.0000 Fe             2.0000 H
-      7.0000 O              1.0000 Si
-     6 species in aqueous dissociation reaction:      
-    -1.0000  chloritoid                     2.0000  Al+3
-     1.0000  Fe+2                           1.0000  SiO2
-    -8.0000  H+                             5.0000  H2O                      
-**** logK grid [T, P @ Miscellaneous parameters]=chloritoid
-            nan       nan       nan       nan
-            nan       nan       nan       nan
-+--------------------------------------------------------------------
-cummingtonite           Mg7Si8O22(OH)2
-    date last revised = 8/16/2015
- keys   = solid            nan              active
-     charge  =   0.0
-     V0PrTr =     271.9 cm**3/mol
-     4 element(s):
-      2.0000 H              7.0000 Mg            24.0000 O
-      8.0000 Si
-     5 species in aqueous dissociation reaction:      
-    -1.0000  cummingtonite                  7.0000  Mg+2
-     8.0000  SiO2                         -14.0000  H+
-     8.0000  H2O                      
-**** logK grid [T, P @ Miscellaneous parameters]=cummingtonite
-            nan       nan       nan       nan
-            nan       nan       nan       nan
-+--------------------------------------------------------------------
 dickite                 Al2Si2O5(OH)4
     date last revised = 7/6/2020
  keys   = solid            nan              active
@@ -13685,59 +13604,6 @@ dickite                 Al2Si2O5(OH)4
 **** logK grid [T, P @ Miscellaneous parameters]=dickite
           6.0514     2.4042    -0.7604    -3.3126
          -5.4524    -7.3687    -9.2168   -10.5468
-+--------------------------------------------------------------------
-edenite                 Na(Ca2Mg5)(AlSi7)O22(OH2)
-    date last revised = 5/5/1978
- keys   = solid            nan              active
-     charge  =   0.0
-     V0PrTr =       271 cm**3/mol
-     7 element(s):
-      1.0000 Al             2.0000 Ca             2.0000 H
-      5.0000 Mg             1.0000 Na            23.0000 O
-             7.0000 Si
-     9 species in aqueous dissociation reaction:      
-    -1.0000  edenite                        1.0000  Al+3
-     2.0000  Ca+2                           5.0000  Mg+2
-     1.0000  Na+                            7.0000  SiO2
-   -18.0000  H+                            -0.5000  O2(g)
-    10.0000  H2O                      
-**** logK grid [T, P @ Miscellaneous parameters]=edenite
-            nan       nan       nan       nan
-            nan       nan       nan       nan
-+--------------------------------------------------------------------
-ferroedenite            Na(Ca2Fe5)(AlSi7)O22(OH)2
-    date last revised = 5/5/1978
- keys   = solid            nan              active
-     charge  =   0.0
-     V0PrTr =     280.9 cm**3/mol
-     7 element(s):
-      1.0000 Al             2.0000 Ca             5.0000 Fe
-      2.0000 H              1.0000 Na            24.0000 O
-             7.0000 Si
-     8 species in aqueous dissociation reaction:      
-    -1.0000  ferroedenite                   1.0000  Al+3
-     2.0000  Ca+2                           5.0000  Fe+2
-     1.0000  Na+                            7.0000  SiO2
-   -18.0000  H+                            10.0000  H2O                      
-**** logK grid [T, P @ Miscellaneous parameters]=ferroedenite
-            nan       nan       nan       nan
-            nan       nan       nan       nan
-+--------------------------------------------------------------------
-ferrogedrite            (Fe5Al2)(Al2Si6)O22(OH)2
-    date last revised = 5/5/1978
- keys   = solid            nan              active
-     charge  =   0.0
-     V0PrTr =     265.9 cm**3/mol
-     5 element(s):
-      4.0000 Al             5.0000 Fe             2.0000 H
-     24.0000 O              6.0000 Si
-     6 species in aqueous dissociation reaction:      
-    -1.0000  ferrogedrite                   4.0000  Al+3
-     5.0000  Fe+2                           6.0000  SiO2
-   -22.0000  H+                            12.0000  H2O                      
-**** logK grid [T, P @ Miscellaneous parameters]=ferrogedrite
-            nan       nan       nan       nan
-            nan       nan       nan       nan
 +--------------------------------------------------------------------
 ferropargasite          Na(Ca2Fe4Al)(Al2Si6)O22(OH)2
     date last revised = 5/5/1978
@@ -13757,25 +13623,6 @@ ferropargasite          Na(Ca2Fe4Al)(Al2Si6)O22(OH)2
          92.0923    70.5468    53.3120    39.7859
          28.7729    19.3175    10.6476     3.5381
 +--------------------------------------------------------------------
-fluoredenite            Na(Ca2Mg5)(AlSi7)O22(F)2
-    date last revised = 5/5/1978
- keys   = solid            nan              active
-     charge  =   0.0
-     V0PrTr =     272.5 cm**3/mol
-     7 element(s):
-      1.0000 Al             2.0000 Ca             2.0000 F
-      5.0000 Mg             1.0000 Na            22.0000 O
-             7.0000 Si
-     9 species in aqueous dissociation reaction:      
-    -1.0000  fluoredenite                   1.0000  Al+3
-     2.0000  Ca+2                           2.0000  F-
-     5.0000  Mg+2                           1.0000  Na+
-     7.0000  SiO2                         -16.0000  H+
-     8.0000  H2O                      
-**** logK grid [T, P @ Miscellaneous parameters]=fluoredenite
-            nan       nan       nan       nan
-            nan       nan       nan       nan
-+--------------------------------------------------------------------
 fluorphlogopite         KMg3(AlSi3)O10(F)2
     date last revised = 7/6/2020
  keys   = solid            nan              active
@@ -13792,23 +13639,6 @@ fluorphlogopite         KMg3(AlSi3)O10(F)2
 **** logK grid [T, P @ Miscellaneous parameters]=fluorphlogopite
          25.8442    18.0011    11.2770     5.7805
           1.0894    -3.2079    -7.5410   -11.8502
-+--------------------------------------------------------------------
-fluortremolite          (Ca2Mg5)Si8O22(F)2
-    date last revised = 5/5/1978
- keys   = solid            nan              active
-     charge  =   0.0
-     V0PrTr =    270.45 cm**3/mol
-     5 element(s):
-      2.0000 Ca             2.0000 F              5.0000 Mg
-     22.0000 O              8.0000 Si
-     7 species in aqueous dissociation reaction:      
-    -1.0000  fluortremolite                 2.0000  Ca+2
-     2.0000  F-                             5.0000  Mg+2
-     8.0000  SiO2                         -12.0000  H+
-     6.0000  H2O                      
-**** logK grid [T, P @ Miscellaneous parameters]=fluortremolite
-            nan       nan       nan       nan
-            nan       nan       nan       nan
 +--------------------------------------------------------------------
 glaucophane             Na2(Mg3Al2)Si8O22(OH)2
     date last revised = 7/6/2020
@@ -13859,41 +13689,6 @@ halloysite              Al2Si2O5(OH)4
           9.0055     4.8536     1.3195    -1.5149
          -3.8772    -5.9736    -7.9702    -9.4249
 +--------------------------------------------------------------------
-hastingsite             Na(Ca2Fe4Fe)(Al2Si6)O22(OH)2
-    date last revised = 5/5/1978
- keys   = solid            nan              active
-     charge  =   0.0
-     V0PrTr =     280.3 cm**3/mol
-     7 element(s):
-      2.0000 Al             2.0000 Ca             5.0000 Fe
-      2.0000 H              1.0000 Na            24.0000 O
-             6.0000 Si
-     9 species in aqueous dissociation reaction:      
-    -1.0000  hastingsite                    2.0000  Al+3
-     2.0000  Ca+2                           4.0000  Fe+2
-     1.0000  Fe+3                           1.0000  Na+
-     6.0000  SiO2                         -22.0000  H+
-    12.0000  H2O                      
-**** logK grid [T, P @ Miscellaneous parameters]=hastingsite
-            nan       nan       nan       nan
-            nan       nan       nan       nan
-+--------------------------------------------------------------------
-heulandite              Ca(Al2Si7)O18*6H2O
-    date last revised = 5/5/1978
- keys   = solid            nan              active
-     charge  =   0.0
-     V0PrTr =    316.37 cm**3/mol
-     5 element(s):
-      2.0000 Al             1.0000 Ca            12.0000 H
-     24.0000 O              7.0000 Si
-     6 species in aqueous dissociation reaction:      
-    -1.0000  heulandite                     2.0000  Al+3
-     1.0000  Ca+2                           7.0000  SiO2
-    -8.0000  H+                            10.0000  H2O                      
-**** logK grid [T, P @ Miscellaneous parameters]=heulandite
-            nan       nan       nan       nan
-            nan       nan       nan       nan
-+--------------------------------------------------------------------
 larnite                 Ca2SiO4
     date last revised = 7/6/2020
  keys   = solid            nan              active
@@ -13924,22 +13719,6 @@ laurite                 RuS2
         178.7978   143.7677   117.3223    96.5260
          79.5321    65.0962    52.2059    39.6567
 +--------------------------------------------------------------------
-leonhardite             Ca2(Al4Si8)O24*7H2O
-    date last revised = 5/5/1978
- keys   = solid            nan              active
-     charge  =   0.0
-     V0PrTr =    407.86 cm**3/mol
-     5 element(s):
-      4.0000 Al             2.0000 Ca            14.0000 H
-     31.0000 O              8.0000 Si
-     6 species in aqueous dissociation reaction:      
-    -1.0000  leonhardite                    4.0000  Al+3
-     2.0000  Ca+2                           8.0000  SiO2
-   -16.0000  H+                            15.0000  H2O                      
-**** logK grid [T, P @ Miscellaneous parameters]=leonhardite
-            nan       nan       nan       nan
-            nan       nan       nan       nan
-+--------------------------------------------------------------------
 litharge                PbO
     date last revised = 4/11/1995
  keys   = solid            nan              active
@@ -13953,58 +13732,6 @@ litharge                PbO
 **** logK grid [T, P @ Miscellaneous parameters]=litharge
          13.6341    11.7003    10.2699     9.1675
           8.2762     7.5166     6.8252     6.2036
-+--------------------------------------------------------------------
-magnesiohastingsite     Na(Ca2Mg4Fe)(Al2Si6)O22(OH)2
-    date last revised = 5/5/1978
- keys   = solid            nan              active
-     charge  =   0.0
-     V0PrTr =     273.8 cm**3/mol
-     8 element(s):
-      2.0000 Al             2.0000 Ca             1.0000 Fe
-      2.0000 H              4.0000 Mg             1.0000 Na
-            24.0000 O       6.0000 Si
-     10 species in aqueous dissociation reaction:      
-    -1.0000  magnesiohastingsite            2.0000  Al+3
-     2.0000  Ca+2                           1.0000  Fe+3
-     4.0000  Mg+2                           1.0000  Na+
-     6.0000  SiO2                         -22.0000  H+
-    12.0000  H2                             6.0000  O2(g)                    
-**** logK grid [T, P @ Miscellaneous parameters]=magnesiohastingsite
-            nan       nan       nan       nan
-            nan       nan       nan       nan
-+--------------------------------------------------------------------
-magnesioriebeckite      Na2(Mg3Fe2)Si8O22(OH)2
-    date last revised = 5/5/1978
- keys   = solid            nan              active
-     charge  =   0.0
-     V0PrTr =     271.3 cm**3/mol
-     6 element(s):
-      2.0000 Fe             2.0000 H              3.0000 Mg
-      2.0000 Na            24.0000 O              8.0000 Si
-     7 species in aqueous dissociation reaction:      
-    -1.0000  magnesioriebeckite             2.0000  Fe+3
-     3.0000  Mg+2                           2.0000  Na+
-     8.0000  SiO2                         -14.0000  H+
-     8.0000  H2O                      
-**** logK grid [T, P @ Miscellaneous parameters]=magnesioriebeckite
-            nan       nan       nan       nan
-            nan       nan       nan       nan
-+--------------------------------------------------------------------
-natrolite               Na2(Al2Si3)O10*2H2O
-    date last revised = 5/5/1978
- keys   = solid            nan              active
-     charge  =   0.0
-     V0PrTr =    169.72 cm**3/mol
-     5 element(s):
-      2.0000 Al             4.0000 H              2.0000 Na
-     12.0000 O              3.0000 Si
-     6 species in aqueous dissociation reaction:      
-    -1.0000  natrolite                      2.0000  Al+3
-     2.0000  Na+                            3.0000  SiO2
-    -8.0000  H+                             6.0000  H2O                      
-**** logK grid [T, P @ Miscellaneous parameters]=natrolite
-            nan       nan       nan       nan
-            nan       nan       nan       nan
 +--------------------------------------------------------------------
 palladium               Pd
     date last revised = 4/14/1992
@@ -14082,40 +13809,6 @@ rhodium                 Rh
          24.0570    18.8706    15.0775    12.1786
           9.8709     7.9597     6.3096     4.9451
 +--------------------------------------------------------------------
-richterite              Na2(CaMg5)Si8O22(OH)2
-    date last revised = 5/5/1978
- keys   = solid            nan              active
-     charge  =   0.0
-     V0PrTr =     272.8 cm**3/mol
-     6 element(s):
-      1.0000 Ca             2.0000 H              5.0000 Mg
-      2.0000 Na            24.0000 O              8.0000 Si
-     7 species in aqueous dissociation reaction:      
-    -1.0000  richterite                     1.0000  Ca+2
-     5.0000  Mg+2                           2.0000  Na+
-     8.0000  SiO2                         -14.0000  H+
-     8.0000  H2O                      
-**** logK grid [T, P @ Miscellaneous parameters]=richterite
-            nan       nan       nan       nan
-            nan       nan       nan       nan
-+--------------------------------------------------------------------
-riebeckite              Na2(Fe3Fe2)Si8O22(OH)2
-    date last revised = 5/5/1978
- keys   = solid            nan              active
-     charge  =   0.0
-     V0PrTr =     274.9 cm**3/mol
-     5 element(s):
-      5.0000 Fe             2.0000 H              2.0000 Na
-     24.0000 O              8.0000 Si
-     7 species in aqueous dissociation reaction:      
-    -1.0000  riebeckite                     3.0000  Fe+2
-     2.0000  Fe+3                           2.0000  Na+
-     8.0000  SiO2                         -14.0000  H+
-     8.0000  H2O                      
-**** logK grid [T, P @ Miscellaneous parameters]=riebeckite
-            nan       nan       nan       nan
-            nan       nan       nan       nan
-+--------------------------------------------------------------------
 ruthenium               Ru
     date last revised = 4/14/1992
  keys   = solid            nan              active
@@ -14130,55 +13823,6 @@ ruthenium               Ru
 **** logK grid [T, P @ Miscellaneous parameters]=ruthenium
          17.4531    13.3629    10.3768     8.0976
           6.2819     4.7715     3.4544     2.3672
-+--------------------------------------------------------------------
-spessartine             Mn3Al2Si3O12
-    date last revised = 5/5/1978
- keys   = solid            nan              active
-     charge  =   0.0
-     V0PrTr =     117.9 cm**3/mol
-     4 element(s):
-      3.0000 Mn             2.0000 Al             3.0000 Si
-     12.0000 O 
-     6 species in aqueous dissociation reaction:      
-    -1.0000  spessartine                    3.0000  Mn+2
-     2.0000  Al+3                           3.0000  SiO2
-   -12.0000  H+                             6.0000  H2O                      
-**** logK grid [T, P @ Miscellaneous parameters]=spessartine
-            nan       nan       nan       nan
-            nan       nan       nan       nan
-+--------------------------------------------------------------------
-staurolite              Fe2Al9Si4O23(OH)
-    date last revised = 5/5/1978
- keys   = solid            nan              active
-     charge  =   0.0
-     V0PrTr =     224.4 cm**3/mol
-     5 element(s):
-      9.0000 Al             2.0000 Fe             1.0000 H
-     24.0000 O              4.0000 Si
-     6 species in aqueous dissociation reaction:      
-    -1.0000  staurolite                     9.0000  Al+3
-     2.0000  Fe+2                           4.0000  SiO2
-   -31.0000  H+                            16.0000  H2O                      
-**** logK grid [T, P @ Miscellaneous parameters]=staurolite
-            nan       nan       nan       nan
-            nan       nan       nan       nan
-+--------------------------------------------------------------------
-stilbite                NaCa2(Al5Si13)O36*14H2O
-    date last revised = 5/5/1978
- keys   = solid            nan              active
-     charge  =   0.0
-     V0PrTr =    649.91 cm**3/mol
-     6 element(s):
-      5.0000 Al             2.0000 Ca            28.0000 H
-      1.0000 Na            50.0000 O             13.0000 Si
-     7 species in aqueous dissociation reaction:      
-    -1.0000  stilbite                       5.0000  Al+3
-     2.0000  Ca+2                           1.0000  Na+
-    13.0000  SiO2                         -20.0000  H+
-    24.0000  H2O                      
-**** logK grid [T, P @ Miscellaneous parameters]=stilbite
-            nan       nan       nan       nan
-            nan       nan       nan       nan
 +--------------------------------------------------------------------
 portlandite             Ca(OH)2
     date last revised = 4/19/2023
@@ -14523,7 +14167,7 @@ olivine                 (fe,mg)2sio4
   1 site parameters
 2.000 0.000 0.000 0.000 0.000 0.000
 +--------------------------------------------------------------------
-ideal olivine           (fe,mg)2sio4
+ideal-olivine           (fe,mg)2sio4
     date last revised = 13-aug-93 TMM
  keys   = ss               ideal            active
   2 components
@@ -14553,7 +14197,7 @@ clinopyroxene           ca(fe,mg)si2o6
   1 site parameters
 1.000 0.000 0.000 0.000 0.000 0.000
 +--------------------------------------------------------------------
-ca-amphib. binary       ca2(fe,mg)5si8o22(oh)2
+ca-amphib.-binary       ca2(fe,mg)5si8o22(oh)2
     date last revised = 2-feb-1994 TMM
  keys   = ss               ideal            active
   2 components
@@ -14563,7 +14207,7 @@ ca-amphib. binary       ca2(fe,mg)5si8o22(oh)2
   1 site parameters
 1.000 0.000 0.000 0.000 0.000 0.000
 +--------------------------------------------------------------------
-amphib. ternary         (na)ca2(fe,mg,al)5(al,si)8o22(oh)2
+amphib.-ternary         (na)ca2(fe,mg,al)5(al,si)8o22(oh)2
     date last revised = 2-feb-1994 TMM
  keys   = ss               ideal            active
   3 components
@@ -14574,7 +14218,7 @@ amphib. ternary         (na)ca2(fe,mg,al)5(al,si)8o22(oh)2
   1 site parameters
 1.000 0.000 0.000 0.000 0.000 0.000
 +--------------------------------------------------------------------
-trem-parg binary        (na)ca2mg3(mg,al)2(al,si)8o22(oh)2
+trem-parg-binary        (na)ca2mg3(mg,al)2(al,si)8o22(oh)2
     date last revised = 2-feb-1994 TMM
  keys   = ss               ideal            active
   2 components
@@ -14584,7 +14228,7 @@ trem-parg binary        (na)ca2mg3(mg,al)2(al,si)8o22(oh)2
   1 site parameters
 1.000 0.000 0.000 0.000 0.000 0.000
 +--------------------------------------------------------------------
-ideal plagioclase       caal2si2o8-naalsi3o8
+ideal-plagioclase       caal2si2o8-naalsi3o8
     date last revised = 24-Feb-92
  keys   = ss               ideal            active
   2 components
@@ -14604,7 +14248,7 @@ plagioclase,low         caal2si2o8-naalsi3o8
   1 site parameters
 1.000 0.000 0.000 0.000 0.000 0.000
 +--------------------------------------------------------------------
-plag. cub. mac.         caal2si2o8-naalsi3o8
+plag.-cub.-mac.         caal2si2o8-naalsi3o8
     date last revised = 9-nov-1993 TMM
  keys   = ss               cubic maclaurin  active
   2 components
@@ -14635,7 +14279,7 @@ microcline-ss           (k,na)alsi3o8
   1 site parameters
 1.000 0.000 0.000 0.000 0.000 0.000
 +--------------------------------------------------------------------
-alk. feldspar-ss        (k,na)alsi3o8
+alk.-feldspar-ss        (k,na)alsi3o8
     date last revised = 13-may-1993 TMc
  keys   = ss               ideal            active
   2 components
@@ -14645,7 +14289,7 @@ alk. feldspar-ss        (k,na)alsi3o8
   1 site parameters
 1.000 0.000 0.000 0.000 0.000 0.000
 +--------------------------------------------------------------------
-alk feld bin mar        (k,na)alsi3o8
+alk-feld-bin-mar        (k,na)alsi3o8
     date last revised = 16-jun-1993 TMc
  keys   = ss               regular          active
   2 components
@@ -14656,7 +14300,7 @@ alk feld bin mar        (k,na)alsi3o8
   1 site parameters
 1.000 0.000 0.000 0.000 0.000 0.000
 +--------------------------------------------------------------------
-feld bin marg 2         kalsi3o8-naalsi3o8
+feld-bin-marg-2         kalsi3o8-naalsi3o8
     date last revised = 10-nov-1993 TMM
  keys   = ss               cubic maclaurin  active
   2 components
