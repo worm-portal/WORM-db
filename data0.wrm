@@ -13872,6 +13872,151 @@ gypsum                  CaSO4(H2O)2
          -4.4968    -4.5243    -4.8722    -5.4002    -6.0982    -7.0112
          -8.2737   -10.2196
 +--------------------------------------------------------------------
+pyrolusite              MnO2
+    date last revised = 8/15/2020
+ keys   = solid            nan              active
+     charge  =   0.0
+     V0PrTr =     16.61 cm**3/mol
+     2 element(s):
+      1.0000 Mn             2.0000 O 
+     5 species in aqueous dissociation reaction:      
+    -4.0000  pyrolusite                     4.0000  Mn+3
+   -12.0000  H+                             1.0000  O2(g)
+     6.0000  H2O                      
+**** logK grid [T, P @ Miscellaneous parameters]=pyrolusite
+        -14.6910   -19.0607   -22.3973   -25.1063   -27.5157   -29.8704
+        -32.3523   -33.8952
++--------------------------------------------------------------------
+bixbyite                Mn2O3
+    date last revised = 8/15/2020
+ keys   = solid            nan              active
+     charge  =   0.0
+     V0PrTr =     31.37 cm**3/mol
+     2 element(s):
+      2.0000 Mn             3.0000 O 
+     4 species in aqueous dissociation reaction:      
+    -1.0000  bixbyite                       2.0000  Mn+3
+    -6.0000  H+                             3.0000  H2O                      
+**** logK grid [T, P @ Miscellaneous parameters]=bixbyite
+          2.3411    -2.2360    -5.6606    -8.3559   -10.6157   -12.6438
+        -14.5845   -15.9415
++--------------------------------------------------------------------
+hausmannite             Mn3O4
+    date last revised = 8/15/2020
+ keys   = solid            nan              active
+     charge  =   0.0
+     V0PrTr =     46.95 cm**3/mol
+     2 element(s):
+      3.0000 Mn             4.0000 O 
+     5 species in aqueous dissociation reaction:      
+    -1.0000  hausmannite                    1.0000  Mn+2
+     2.0000  Mn+3                          -8.0000  H+
+     4.0000  H2O                      
+**** logK grid [T, P @ Miscellaneous parameters]=hausmannite
+         15.4466     8.4541     3.2823    -0.7419    -4.0654    -6.9928
+         -9.7436   -11.7716
++--------------------------------------------------------------------
+huebnerite              MnWO4
+    date last revised = 9/10/2020
+ keys   = solid            nan              active
+     charge  =   0.0
+     V0PrTr =     41.89 cm**3/mol
+     3 element(s):
+      1.0000 Mn             1.0000 W              4.0000 O 
+     3 species in aqueous dissociation reaction:      
+    -1.0000  huebnerite                     1.0000  Mn+2
+     1.0000  WO4-2                    
+**** logK grid [T, P @ Miscellaneous parameters]=huebnerite
+        -16.6461   -15.3475   -14.7136   -14.4917   -14.5981   -15.0315
+        -15.8956   -17.4832
++--------------------------------------------------------------------
+linnaeite               Co3S4
+    date last revised = 2/10/2023
+ keys   = solid            nan              active
+     charge  =   0.0
+     V0PrTr =     62.55 cm**3/mol
+     2 element(s):
+      3.0000 Co             4.0000 S 
+     5 species in aqueous dissociation reaction:      
+    -1.0000  linnaeite                      1.0000  Co+2
+     2.0000  Co+3                           4.0000  SO4-2
+    -8.0000  O2(g)                    
+**** logK grid [T, P @ Miscellaneous parameters]=linnaeite
+        475.9577   382.4882   312.3892   257.5807   213.0578   175.5076
+        142.3648   111.3335
++--------------------------------------------------------------------
+cattierite              CoS2
+    date last revised = 10/6/2020
+ keys   = solid            nan              active
+     charge  =   0.0
+     V0PrTr =     25.52 cm**3/mol
+     2 element(s):
+      1.0000 Co             2.0000 S 
+     3 species in aqueous dissociation reaction:      
+    -1.0000  cattierite                     1.0000  Co+2
+     1.0000  S2-2                     
+**** logK grid [T, P @ Miscellaneous parameters]=cattierite
+        -31.8739   -28.2121   -25.8943   -24.4058   -23.5246   -23.1672
+        -23.3845   -24.4128
++--------------------------------------------------------------------
+willemite               Zn2SiO4
+    date last revised = 3/22/2021
+ keys   = solid            nan              active
+     charge  =   0.0
+     V0PrTr =     52.42 cm**3/mol
+     3 element(s):
+      2.0000 Zn             1.0000 Si             4.0000 O 
+     5 species in aqueous dissociation reaction:      
+    -1.0000  willemite                      2.0000  Zn+2
+     1.0000  SiO2                          -4.0000  H+
+     2.0000  H2O                      
+**** logK grid [T, P @ Miscellaneous parameters]=willemite
+         15.6925    12.2188     9.4861     7.3852     5.7070     4.2845
+          2.9793     1.8877
++--------------------------------------------------------------------
+guite                   Co3O4
+    date last revised = 6/21/2022
+ keys   = solid            nan              active
+     charge  =   0.0
+     V0PrTr =     39.77 cm**3/mol
+     2 element(s):
+      3.0000 Co             4.0000 O 
+     5 species in aqueous dissociation reaction:      
+    -1.0000  guite                          1.0000  Co+2
+     2.0000  Co+3                          -8.0000  H+
+     4.0000  H2O                      
+**** logK grid [T, P @ Miscellaneous parameters]=guite
+        -10.1640   -13.0490   -15.2011   -16.9104   -18.4036   -19.8491
+        -21.3769   -22.3711
++--------------------------------------------------------------------
+cobalt-monoxide         CoO
+    date last revised = 6/21/2022
+ keys   = solid            nan              active
+     charge  =   0.0
+     V0PrTr =     11.64 cm**3/mol
+     2 element(s):
+      1.0000 Co             1.0000 O 
+     4 species in aqueous dissociation reaction:      
+    -1.0000  cobalt-monoxide                1.0000  Co+2
+    -2.0000  H+                             1.0000  H2O                      
+**** logK grid [T, P @ Miscellaneous parameters]=cobalt-monoxide
+         15.2700    12.1362     9.8455     8.0900     6.6800     5.4914
+          4.4349     3.5666
++--------------------------------------------------------------------
+Mn(OH)2                 Mn(OH)2
+    date last revised = 8/15/2020
+ keys   = solid            nan              active
+     charge  =   0.0
+     V0PrTr =       NaN cm**3/mol
+     3 element(s):
+      2.0000 H              1.0000 Mn             2.0000 O 
+     4 species in aqueous dissociation reaction:      
+    -1.0000  Mn(OH)2                       -2.0000  H+
+     1.0000  Mn+2                           2.0000  H2O                      
+**** logK grid [T, P @ Miscellaneous parameters]=Mn(OH)2
+         17.3223    14.4261    12.3344    10.7547     9.5062     8.4689
+          7.5548     6.8039
++--------------------------------------------------------------------
 liquids
 +--------------------------------------------------------------------
 PLACEHOLDER3              pl
