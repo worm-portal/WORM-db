@@ -14017,6 +14017,19 @@ Mn(OH)2                 Mn(OH)2
          17.3223    14.4261    12.3344    10.7547     9.5062     8.4689
           7.5548     6.8039
 +--------------------------------------------------------------------
+amorphous-silica        SiO2
+    date last revised = 5/5/1978
+ keys   = solid            nan              active
+     charge  =   0.0
+     V0PrTr =        29 cm**3/mol
+     2 element(s):
+      1.0000 Si             2.0000 O 
+     2 species in aqueous dissociation reaction:      
+    -1.0000  amorphous-silica               1.0000  SiO2                     
+**** logK grid [T, P @ Miscellaneous parameters]=amorphous-silica
+         -3.1240    -2.4783    -2.1843    -1.9796    -1.8190    -1.6928
+         -1.6042    -1.5885
++--------------------------------------------------------------------
 liquids
 +--------------------------------------------------------------------
 PLACEHOLDER3              pl
