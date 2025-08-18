@@ -66,7 +66,7 @@ SLOP98.11,E. L. Shock et al.,1998,slop98.dat computer data file,"""Data and para
 SLOP98.2,E. L. Shock et al.,1998,slop98.dat computer data file,"daphnite; ""Gf and Hf from @SS93a TMM""",http://geopig.asu.edu/?q=tools
 SLOP98.8,E. L. Shock et al.,1998,slop98.dat computer data file,"""These data were used in @SK95, but were not tabulated in the paper.""",http://geopig.asu.edu/?q=tools
 SM93,E. L. Shock and W. B. McKinnon,1993,"Icarus 106, 464-477","CO, HCN, urea",https://doi.org/10.1006/icar.1993.1185
-SPRONS92.2,H. C. Helgeson et al.,1992,sprons92.dat computer data file,"Ca-bearing minerals; ""Gibbs free energies and enthalpies were corrected to be consistent with updated values of Gibbs free energies of Ca2+ and CO32- [@SH88] together with the solubilities of calcite and aragonite reported by @PB82 """,
+SPRONS92.2,H. C. Helgeson et al.,1992,sprons92.dat computer data file,"Ca-bearing minerals; ""Gibbs free energies and enthalpies were corrected to be consistent with updated values of Gibbs free energies of Ca2+ and CO32- [@SH88] together with the solubilities of calcite and aragonite reported by @PB82 """,NA_character_
 SUF+98,H. Senoh et al.,1998,"J. Alloys Compd. 280, 114-124",Mn(OH)2: Cp coefficients from linear fit to values estimated by @SUF+98,https://doi.org/10.1016/S0925-8388(98)00739-7
 SS93,M. D. Schulte and E. L. Shock,1993,"Geochim. Cosmochim. Acta 57, 3835-3846",aldehydes,https://doi.org/10.1016/0016-7037(93)90337-V
 SS98a,D. C. Sassani and E. L. Shock,1998,"Geochim. Cosmochim. Acta 62, 2643-2671",platinum-group ions and complexes,https://doi.org/10.1016/S0016-7037(98)00049-0
@@ -88,3 +88,21 @@ SSWS97.3,"E. L. Shock, D. C. Sassani et al.",1997,"Geochim. Cosmochim. Acta 61, 
 SSWS97.4,"E. L. Shock, D. C. Sassani et al.",1997,"Geochim. Cosmochim. Acta 61, 907-950",Al+3 and Al-hydroxide complexes,https://doi.org/10.1016/S0016-7037(96)00339-0
 SSWS97.5,"E. L. Shock, D. C. Sassani et al.",1997,"Geochim. Cosmochim. Acta 61, 907-950",Zn+2 and Zn-hydroxide complexes,https://doi.org/10.1016/S0016-7037(96)00339-0
 WEP+82.1,"D. D. Wagman, W. H. Evans et al.",1982,"J. Phys. Chem. Ref. Data 11, Suppl. 2, 1-392",Mn(OH)2 (amorphous) and MgSO4,https://srd.nist.gov/JPCRD/jpcrdS2Vol11.pdf
+WEP+82,"D. D. Wagman, W. H. Evans et al.",1982,"J. Phys. Chem. Ref. Data 11, Suppl. 2, 1-392",gases GHS,https://srd.nist.gov/JPCRD/jpcrdS2Vol11.pdf
+HGK84,L. Haar and J. S. Gallagher and G. S. Kell,1984,NBS/NRC Steam Tables,thermodynamic properties of H<sub>2</sub>O outside of the critical region,https://www.worldcat.org/oclc/858456124
+JOH92,J. W. Johnson and E. H. Oelkers and H. C. Helgeson,1992,"Comp. Geosci. 18, 899-947",thermodynamic and electrostatic properties of H<sub>2</sub>O calculated using HO92D.f source file from SUPCRT92 modified for use in CHNOSZ,https://doi.org/10.1016/0098-3004(92)90029-Q
+RH95.3,R. A. Robie and B. S. Hemingway,1995,U. S. Geological Survey Bull. 2131,"almandine, dickite, glaucophane, grunerite, halloysite, pyrope: GHS and Cp at 25 &deg;C",https://doi.org/10.3133/b2131
+RH95.4,R. A. Robie and B. S. Hemingway,1995,U. S. Geological Survey Bull. 2131,fluorphlogopite (Al/Si disordered) (G and H not in SUPCRT92),https://doi.org/10.3133/b2131
+RH95.5,R. A. Robie and B. S. Hemingway,1995,U. S. Geological Survey Bull. 2131,larnite (G and H not in SUPCRT92); Cp from @Kel60,https://doi.org/10.3133/b2131
+RH95.6,R. A. Robie and B. S. Hemingway,1995,U. S. Geological Survey Bull. 2131,bromellite (melting temperature and G and H not in SUPCRT92),https://doi.org/10.3133/b2131
+DSM+97,"J. D. Dale, E. L. Shock et al.",1997,"Geochim. Cosmochim. Acta 61, 4017-4024",alkylphenols,https://doi.org/10.1016/S0016-7037(97)00212-3
+SLOP98.1,E. L. Shock et al.,1998,slop98.dat computer data file,"zincite and litharge; &quot;These data were used in @SSWS97, but were not tabulated in the paper.&quot;",https://doi.org/10.5281/zenodo.2630820
+PSK99,"P. Prapaipong, E. L. Shock and C. M. Koretsky",1999,"Geochim. Cosmochim. Acta 63, 2547-2577",metal-dicarboxylate complexes,https://doi.org/10.1016/S0016-7037(99)00146-5
+PSK99.1,"P. Prapaipong, E. L. Shock and C. M. Koretsky",1999,"Geochim. Cosmochim. Acta 63, 2547-2577",Al(Mal)<sup>+</sup> and Al(Oxal)<sup>+</sup>,https://doi.org/10.1016/S0016-7037(99)00146-5
+SLOP07.2,E. L. Shock et al.,2007,slop07.dat computer data file,high temperature HKF parameters from @AP01,https://doi.org/10.5281/zenodo.2630820
+SLOP16.1,E. L. Shock et al.,2016,slop16.dat computer data file,&quot;Enthalpy changed to be compatible with the equation &Delta;H=&Delta;G+T&Delta;S for the formation reaction from elements.&quot;,https://doi.org/10.5281/zenodo.2630820
+SLOP16.2,E. L. Shock et al.,2016,slop16.dat computer data file,Zn(Ac)<sub>3</sub><sup>-</sup>: &quot;Enthalpy changed to be compatible with the equation &Delta;H=&Delta;G+T&Delta;S for the formation reaction from elements. See footnote h in table 2 of @SSH97.&quot;,https://doi.org/10.5281/zenodo.2630820
+SLOP16.4,E. L. Shock et al.,2016,slop16.dat computer data file,adipic acid and n-dodecanoate: &quot;Gibbs free energy corrected to be compatible with the equation &Delta;G=&Delta;H-T&Delta;S for the formation reaction from elements. See footnote y in table 4 of @Sho95.&quot;,https://doi.org/10.5281/zenodo.2630820
+SLOP16.6,E. L. Shock et al.,2016,slop16.dat computer data file,&quot;Enthalpy corrected to be compatible with the equation &Delta;G=&Delta;H-T&Delta;S for the formation reaction from elements.&quot;,https://doi.org/10.5281/zenodo.2630820
+LA19,D. E. LaRowe and J. P. Amend,2019,"Geomicrobiol. J. 36, 492-505","dimethylamine, trimethylamine, resorcinol, phloroglucinol, cyclohexane carboxylate, and cyclohexane carboxylic acid",https://doi.org/10.1080/01490451.2019.1573278
+OBIGT.9,J. M. Dick,2021,OBIGT database in CHNOSZ,"diaminopimelic acid, putrescine and spermidine: parameters recalculated to account for a missing [-CH2NH2] group in the group additivity equations",https://chnosz.net
