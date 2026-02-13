@@ -106,4 +106,7 @@ SLOP16.4,E. L. Shock et al.,2016,slop16.dat computer data file,adipic acid and n
 SLOP16.6,E. L. Shock et al.,2016,slop16.dat computer data file,&quot;Enthalpy corrected to be compatible with the equation &Delta;G=&Delta;H-T&Delta;S for the formation reaction from elements.&quot;,https://doi.org/10.5281/zenodo.2630820
 LA19,D. E. LaRowe and J. P. Amend,2019,"Geomicrobiol. J. 36, 492-505","dimethylamine, trimethylamine, resorcinol, phloroglucinol, cyclohexane carboxylate, and cyclohexane carboxylic acid",https://doi.org/10.1080/01490451.2019.1573278
 OBIGT.9,J. M. Dick,2021,OBIGT database in CHNOSZ,"diaminopimelic acid, putrescine and spermidine: parameters recalculated to account for a missing [-CH2NH2] group in the group additivity equations",https://chnosz.net
-SLOP16,E. L. Shock et al.,2016,slop16.dat computer data file,,https://doi.org/10.5281/zenodo.2630820
+SLOP16,E. L. Shock et al.,2016,slop16.dat computer data file,many species,https://doi.org/10.5281/zenodo.2630820
+SM92,D. A. Sverjensky and P. A. Molling,1992,"Nature, 356(6366), 231-234",Gibbs free energy of formation of Fe-hydroxide,https://doi.org/10.1038/356231a0
+MB09,T. M. McCollom and W. Bach,2009,"Geochim. Cosmochim. Acta, 73(3), 856-875","Entropy and heat capacity equation parameters a, b, and c for Fe-hydroxide",https://doi.org/10.1016/j.gca.2008.10.032
+Catalano13,J. G. Catalano,2013,"Journal of Geophysical Research: Planets, 118(10), 2124-2136",phyllosilicates,https://doi.org/10.1002/jgre.20161
